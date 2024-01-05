@@ -1,3 +1,3 @@
 # flutter_project_setup
 
-A new Flutter project.
+My new flutter project setup to gain a lot of time
